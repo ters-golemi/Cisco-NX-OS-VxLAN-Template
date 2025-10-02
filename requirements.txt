@@ -1,0 +1,8 @@
+# Python dependencies for VxLAN/EVPN deployment script
+
+# Netmiko - SSH connection library for network devices
+netmiko>=4.0.0
+
+# Optional: Additional useful libraries for network automation
+# paramiko>=2.7.0  # SSH library (installed as netmiko dependency)
+# scp>=0.14.0      # SCP protocol support
